@@ -19,7 +19,18 @@ I build software and secure it. I run **Fiddo Technology**, a software developme
 - 🏴 Founder of **Somali Red Team** — a free community for red teaming, pentesting and bug hunting
 - 💼 Open to remote roles in **cybersecurity** and **full-stack development**
 
-### 🚀 What I'm building
+### 🔓 Open source
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**somali-payments**](https://github.com/abdimalikhussein25/somali-payments) | Accept EVC Plus, Zaad and Sahal payments in Node.js via WaafiPay | TypeScript |
+| [**whatsapp-order-bot**](https://github.com/abdimalikhussein25/whatsapp-order-bot) | WhatsApp ordering bot that talks to customers in Somali | TypeScript |
+| [**attack-surface-scanner**](https://github.com/abdimalikhussein25/attack-surface-scanner) | Maps the subdomains, TLS, headers and leaked files an organisation exposes | Python |
+| [**qr-smart-menu**](https://github.com/abdimalikhussein25/qr-smart-menu) | Scan-to-order restaurant menu that sends orders to WhatsApp | HTML / JS |
+| [**ai-ad-video-agent**](https://github.com/abdimalikhussein25/ai-ad-video-agent) | Turns a product brief into a 9:16 video ad with a voiceover | Python · Claude |
+| [**somali-red-team**](https://github.com/abdimalikhussein25/somali-red-team) | Offensive-security roadmap, methodology and cheat sheets for the community | Docs |
+
+### 🚀 Products at Fiddo Technology
 
 | Product | What it does |
 |---|---|
