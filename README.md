@@ -1,6 +1,6 @@
 ## Abdimalik Salad Hussein
 
-**Founder & CEO, [Fiddo Technology](https://fiddotechnology.com)** · Offensive Security · Full-Stack Engineering
+**Founder & CEO, [Fiddo Technology](https://fiddotechnology.com)** · Offensive Security · Full-Stack Engineering<br>
 Mogadishu, Somalia · Nairobi, Kenya
 
 I build software for businesses in Somalia and Kenya, and I secure it. I started out in offensive security, so I think about how a system can be broken before I ship it. Today I lead Fiddo Technology, a software and IT services company that builds payment, logistics and commerce platforms for the region.
@@ -36,10 +36,10 @@ I build software for businesses in Somalia and Kenya, and I secure it. I started
 
 ### Technologies
 
-**Languages:** TypeScript, JavaScript, Python, SQL, Bash
-**Web & backend:** React, Next.js, Node.js, REST APIs, webhooks
-**Data & cloud:** PostgreSQL, Supabase, Vercel, Linux servers, cPanel
-**Security:** web application and network penetration testing, reconnaissance, attack-surface management, secure code review, Kali Linux, Burp Suite, Nmap
+**Languages:** TypeScript, JavaScript, Python, SQL, Bash<br>
+**Web & backend:** React, Next.js, Node.js, REST APIs, webhooks<br>
+**Data & cloud:** PostgreSQL, Supabase, Vercel, Linux servers, cPanel<br>
+**Security:** web application and network penetration testing, reconnaissance, attack-surface management, secure code review, Kali Linux, Burp Suite, Nmap<br>
 **Integrations:** WaafiPay (EVC Plus / Zaad / Sahal), WhatsApp Cloud API, Claude API
 
 ---
